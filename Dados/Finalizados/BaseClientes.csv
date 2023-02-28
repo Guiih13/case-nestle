@@ -1,0 +1,322 @@
+Cliente;Valor Contrato Anual;Quantidade de Serviços;Cargo;CEP;Data Início Contrato;Nivel de Importancia;Nível;Área;COD Área;COD Nível;Quadro;Bonus;Contratacao;Estado;Região
+Teixeira Gonçalves;54000.0;37;ADIII;743419711;15/03/2019;3.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Amazonas;Norte
+Souza Santos;126000.0;12;FIIV;882467283;08/04/2019;1.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Roraima;Norte
+Emídio Alves;319500.0;23;ADII;295150983;09/02/2019;3.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Peres Koch;306000.0;35;LOV;395907462;14/12/2018;3.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+Pacheco Guimaraes;112500.0;75;COII;669105848;27/01/2019;4.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
+Felipe Sobanski;328500.0;61;FIIII;529553697;15/12/2018;3.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Gonçalves Machado;436500.0;55;OPV;231533733;21/02/2019;2.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Rio Grande do Sul;Sul
+Augusto Oliva;418500.0;21;LOII;578301571;21/02/2019;4.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Alagoas;Nordeste
+Vitorino Pallotta;184500.0;100;COIV;175976864;26/02/2019;1.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Roraima;Norte
+Silva Quintana;450000.0;33;LOV;736840846;24/03/2019;4.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Acre;Norte
+Nogueira Wancelotti;54000.0;51;COIII;747526380;28/03/2019;4.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Antunes Amaro;180000.0;17;OPV;586684475;18/11/2018;1.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Alagoas;Nordeste
+Alberto Martins;378000.0;48;FIIV;233148761;16/02/2019;2.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;São Paulo;Sudeste
+Viana Blanquez;85500.0;42;OPIII;755947892;12/01/2019;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Henrique Santos;45000.0;81;OPIII;102602928;02/11/2018;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Amapá;Norte
+Braga Andrade;211500.0;72;ADV;889539255;23/11/2018;1.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Amapá;Norte
+Ambrósio Wassem;414000.0;50;ADV;425170177;18/11/2018;1.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;São Paulo;Sudeste
+Elisa Cordeiro;378000.0;53;OPII;169948298;18/01/2019;2.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Batista Pretti;315000.0;37;FIV;333713800;13/02/2019;4.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Amapá;Norte
+Lopes Araújo;364500.0;10;FIIV;983834266;23/10/2018;4.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Goiás;Centro - Oeste
+Alves Cardozo;445500.0;83;FIIV;266855819;30/01/2019;3.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Acre;Norte
+Peres Magalhães;364500.0;89;COIV;464622381;04/02/2019;2.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Sergipe;Nordeste
+Pontes Quintana;400500.0;62;OPIII;680108898;25/10/2018;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Alagoas;Nordeste
+Malacarne Condé;103500.0;72;FIIV;109519527;06/04/2019;1.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Bahia;Nordeste
+Bugan Rodrigues;328500.0;62;COIV;242946538;23/01/2019;3.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Goiás;Centro - Oeste
+Mahmoud Cotta;355500.0;74;FIII;466538771;22/11/2018;3.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
+Fernandes Silveira;207000.0;73;FIIII;209101725;04/03/2019;4.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Mato Grosso;Centro - Oeste
+Dos Goncalves;382500.0;78;FIV;802167118;03/04/2019;4.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Roraima;Norte
+Hugo Grippe;189000.0;38;OPIII;943115124;23/11/2018;4.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Do Therezo;256500.0;61;ADIII;67525170;24/12/2018;4.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Amazonas;Norte
+Luiza Andrade;369000.0;45;OPV;955330032;29/03/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Acre;Norte
+Kellen Porto;270000.0;81;COII;257058096;07/11/2018;2.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Sergipe;Nordeste
+Rodrigo Rossini;283500.0;97;COIII;588320044;20/01/2019;3.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Arruda Faccin;238500.0;11;COIII;334327120;20/03/2019;2.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
+Belmonte Pires;283500.0;62;FIIII;85701142;10/01/2019;3.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
+Fernando Walter;90000.0;60;FIII;610086725;27/11/2018;1.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Sergipe;Nordeste
+Bergamo Ferreira;234000.0;22;LOIII;292014447;19/02/2019;1.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Santa Catarina;Sul
+Vieira Feliciano;148500.0;41;OPV;196876791;19/10/2018;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;São Paulo;Sudeste
+Gomes Arruda;126000.0;88;FIIV;557996514;25/03/2019;1.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Bahia;Nordeste
+Leal Favoretto;342000.0;37;ADIII;154433139;06/03/2019;4.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Minas Gerais;Sudeste
+Colaço Nohara;274500.0;26;ADII;352268290;23/12/2018;3.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Acre;Norte
+Inês Simões;337500.0;70;ADV;374458283;02/04/2019;4.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Bahia;Nordeste
+Martins Barbosa;387000.0;61;OPII;310379900;11/03/2019;4.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Pará;Norte
+Bonardo Lemos;126000.0;61;ADII;18052586;15/04/2019;3.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Amapá;Norte
+Freitas Oliveira;301500.0;71;OPII;370752945;19/01/2019;2.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Mato Grosso;Centro - Oeste
+Lopes Braun;274500.0;84;ADIII;738061412;05/01/2019;1.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+Santos Diniz;189000.0;63;FIIII;719378265;24/01/2019;4.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Pará;Norte
+Francisco Mayer;67500.0;70;LOII;378113472;10/12/2018;3.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Roraima;Norte
+Ferreira Ribeiro;220500.0;86;OPV;855985750;14/03/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Amazonas;Norte
+Nunes Wiener;441000.0;91;ADIV;977370859;06/12/2018;3.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Amazonas;Norte
+Gonzaga Oliva;283500.0;26;COV;529675881;14/03/2019;2.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Acre;Norte
+Vellado Fernandes;436500.0;11;ADIII;952829336;25/01/2019;1.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Pará;Norte
+Carbone Figueira;256500.0;73;OPV;107831393;02/03/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Santa Catarina;Sul
+Luis Junqueira;175500.0;42;OPIV;802623920;10/04/2019;3.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Rio Grande do Norte;Nordeste
+Campos Ferreira;436500.0;62;FIIV;141291867;07/12/2018;3.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Santa Catarina;Sul
+Vellado Santana;400500.0;25;ADV;417478779;18/01/2019;2.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Alagoas;Nordeste
+Batista Martins;54000.0;59;OPIV;165892101;18/03/2019;1.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Bahia;Nordeste
+Pedro Gonçalves;139500.0;92;OPV;365618363;06/02/2019;4.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Sergipe;Nordeste
+Stivanin Resende;409500.0;81;FIIV;224248288;16/03/2019;3.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+Oliveira Grecco;117000.0;50;ADIII;509515007;07/01/2019;4.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Bahia;Nordeste
+Pereira Mello;432000.0;88;LOII;891592128;25/01/2019;4.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Bahia;Nordeste
+Fernandes ;193500.0;27;LOIV;281478967;19/03/2019;4.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Acre;Norte
+Silva Amaral;261000.0;65;COV;858723566;11/01/2019;3.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Rio Grande do Norte;Nordeste
+De Valverde;310500.0;88;OPII;11883169;18/03/2019;3.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Mato Grosso;Centro - Oeste
+Barboza Gonçalves;391500.0;71;FIIII;90224811;08/04/2019;4.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Amazonas;Norte
+Pereira Araújo;373500.0;61;COIII;545901372;28/01/2019;1.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Pará;Norte
+Jacinto Gonçalves;45000.0;24;COIII;234026803;25/01/2019;4.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Roraima;Norte
+Hugo Feliciano;297000.0;59;FIV;264232763;28/03/2019;4.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Acre;Norte
+Serra Almeida;189000.0;23;OPIV;834082025;06/02/2019;2.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Minas Gerais;Sudeste
+Celeste Costa;436500.0;37;FIIII;88691292;12/04/2019;2.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Sergipe;Nordeste
+Maria Vanin;283500.0;39;LOIV;194323003;12/04/2019;3.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Minas Gerais;Sudeste
+Eduardo Resende;171000.0;53;LOII;309726516;06/01/2019;3.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Pará;Norte
+Bugan Ribeiro;121500.0;29;ADII;782012245;06/02/2019;4.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Roraima;Norte
+Martins Vazquez;427500.0;14;OPIV;785729733;14/11/2018;4.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Minas Gerais;Sudeste
+Carvalho Santos;301500.0;83;FIV;719254195;17/03/2019;1.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Pará;Norte
+Mendes Neves;144000.0;68;LOIII;911124913;21/11/2018;1.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Amazonas;Norte
+Emídio Peres;247500.0;87;LOIV;357169153;25/02/2019;4.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Goiás;Centro - Oeste
+Henrique Felipe;405000.0;86;FIV;936814787;08/12/2018;2.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Bahia;Nordeste
+Coval Ferreira;193500.0;46;ADIV;26097340;26/11/2018;3.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Alagoas;Nordeste
+Maria Battaglini;58500.0;96;LOIV;986909428;21/02/2019;4.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Pernambuco;Nordeste
+Drummond Bueno;207000.0;78;LOV;334504667;10/02/2019;4.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Bahia;Nordeste
+Felipe Figueira;319500.0;12;LOIII;370390658;15/12/2018;4.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Minhoto Granuzzi;247500.0;15;LOIII;805239615;23/02/2019;2.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Pará;Norte
+Roberto Gonçalves;144000.0;34;FIII;422896816;07/02/2019;1.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Sergipe;Nordeste
+Vita Cordeiro;252000.0;23;ADV;572564698;15/11/2018;3.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;São Paulo;Sudeste
+Angelo Bettoni;229500.0;47;FIIV;217492299;31/01/2019;3.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Acre;Norte
+Manoel Soares;279000.0;49;LOIV;296719546;13/01/2019;1.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Amapá;Norte
+Formaggini Lemos;247500.0;80;COIII;448696594;30/01/2019;4.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Roraima;Norte
+Miranda Wiener;382500.0;88;OPV;907517262;18/03/2019;4.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Amapá;Norte
+De Wille;346500.0;70;OPIII;819658979;05/02/2019;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Alagoas;Nordeste
+De Goncalves;310500.0;45;ADV;802883981;12/11/2018;3.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;São Paulo;Sudeste
+Lopes Lellis;81000.0;34;OPIII;893238889;03/04/2019;4.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Minas Gerais;Sudeste
+Figueira Neto;409500.0;64;OPV;376270688;26/12/2018;4.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Alagoas;Nordeste
+Barbosa Moreira;378000.0;21;LOIII;231118258;10/04/2019;2.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Minas Gerais;Sudeste
+Rodrigues Mendes;436500.0;22;LOII;358479779;05/02/2019;2.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Lima Peres;292500.0;99;LOII;69627525;10/12/2018;3.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Rio Grande do Sul;Sul
+Fonseca Borges;76500.0;41;ADII;608774171;03/02/2019;4.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Minas Gerais;Sudeste
+Terra Dias;369000.0;75;OPV;665979597;03/02/2019;1.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Alagoas;Nordeste
+Silva Bragard;193500.0;20;COII;822437414;02/02/2019;3.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Amapá;Norte
+Da Grecco;297000.0;63;ADIV;448925114;26/12/2018;1.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Sergipe;Nordeste
+Barbosa Noronha;189000.0;96;OPIV;702214255;21/03/2019;4.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Goiás;Centro - Oeste
+Marcos Schmidt;229500.0;81;OPIII;425022997;23/11/2018;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Sergipe;Nordeste
+Godoy Sberci;355500.0;30;ADIV;546276122;14/03/2019;4.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Pará;Norte
+Fernando Pereira;58500.0;82;OPIV;429360515;20/02/2019;3.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;São Paulo;Sudeste
+De Lellis;126000.0;90;FIII;495383404;12/03/2019;2.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;São Paulo;Sudeste
+Inês Felipe;148500.0;40;FIV;862900882;05/03/2019;4.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Alagoas;Nordeste
+De Dourado;189000.0;23;FIII;672766640;06/01/2019;2.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Sergipe;Nordeste
+De Santos;279000.0;18;LOV;18370689;12/11/2018;2.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Roraima;Norte
+Souza Barbosa;270000.0;67;ADII;782048062;11/11/2018;3.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Sales Silva;342000.0;83;OPV;192490348;09/02/2019;1.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Pernambuco;Nordeste
+Flores Gonçalves;144000.0;77;OPV;450653873;10/12/2018;1.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Roraima;Norte
+Guimarães Walter;270000.0;85;ADIV;531401705;31/03/2019;1.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Rio Grande do Norte;Nordeste
+Gomes Oliveira;441000.0;19;COII;972182752;21/11/2018;2.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+Oliveira Amaral;418500.0;20;COIII;964738757;09/12/2018;4.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Santa Catarina;Sul
+Rebouças Canicali;130500.0;67;LOIV;645446875;12/03/2019;4.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Minas Gerais;Sudeste
+Emanuel Custódio;211500.0;77;FIII;591413830;09/12/2018;4.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Silva Gonçalves;58500.0;48;ADII;249068563;05/11/2018;1.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;São Paulo;Sudeste
+Fernandes Andrade;49500.0;39;LOII;946780583;18/10/2018;1.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Bahia;Nordeste
+De Machado;171000.0;38;LOIV;427179239;25/10/2018;3.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Rio Grande do Sul;Sul
+Rheinheimer Mota;409500.0;58;ADIV;207521873;08/03/2019;3.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Bahia;Nordeste
+De Mayer;441000.0;43;OPIII;350193632;27/02/2019;4.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Amapá;Norte
+Luis Mello;409500.0;15;ADIII;331205388;07/11/2018;4.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Santa Catarina;Sul
+De Macau;279000.0;80;LOIII;285558055;02/04/2019;2.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;São Paulo;Sudeste
+Brigagao Ferreira;247500.0;32;FIIV;936801060;10/04/2019;3.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Amapá;Norte
+Malacarne Onishi;94500.0;90;COIII;354413748;11/03/2019;1.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+Fernando Amaro;409500.0;57;FIII;217520872;19/01/2019;3.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+De Andrade;342000.0;80;COV;472197362;26/12/2018;4.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Goiás;Centro - Oeste
+Da Braun;202500.0;63;ADIII;233895879;24/02/2019;1.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Rio Grande do Sul;Sul
+Vinicius Sousa;346500.0;19;FIIV;839691064;28/03/2019;1.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;São Paulo;Sudeste
+Almeida Magalhães;90000.0;70;FIIII;971079768;30/11/2018;1.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Soares Lima;85500.0;20;LOV;423638664;22/01/2019;2.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Sergipe;Nordeste
+Mendes Gonçalves;337500.0;88;COIII;618416426;11/11/2018;2.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
+Guilherme Arruda;310500.0;50;COIV;442861480;26/02/2019;1.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Acre;Norte
+Megumi Iwai;274500.0;23;COIII;419184791;22/02/2019;1.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Pará;Norte
+Félix Cotta;315000.0;71;OPIII;932184979;30/01/2019;4.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Bahia;Nordeste
+Alexandre Favoretto;270000.0;15;OPV;664350999;13/02/2019;4.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Sergipe;Nordeste
+Carolina Silva;108000.0;33;LOIII;759470812;14/01/2019;3.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Santa Catarina;Sul
+Araldi Mendes;130500.0;44;COV;460247655;20/01/2019;3.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Santa Catarina;Sul
+Krohling Vilela;103500.0;96;COIII;264247402;01/04/2019;4.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;São Paulo;Sudeste
+Dantas Pereira;198000.0;58;LOIII;643792696;12/04/2019;4.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Santa Catarina;Sul
+Marques Ifanger;288000.0;82;COII;598774966;04/12/2018;3.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Roraima;Norte
+Dantas Nohara;243000.0;57;COIII;691241659;21/11/2018;4.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Santa Catarina;Sul
+Caliman Peres;99000.0;73;COIV;445688763;23/01/2019;1.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Amazonas;Norte
+Siqueira Santos;360000.0;86;FIV;314278286;08/01/2019;1.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Bahia;Nordeste
+Inês Grippe;67500.0;34;LOII;466412197;21/03/2019;1.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Sergipe;Nordeste
+Vieira Lemos;328500.0;52;FIIV;869886268;12/02/2019;3.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Rio Grande do Norte;Nordeste
+Monteiro Ling;396000.0;58;FIIV;118018577;02/02/2019;2.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;São Paulo;Sudeste
+Lara Dias;265500.0;30;OPV;298648378;11/01/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Acre;Norte
+Geiger Sousa;67500.0;75;COV;141491676;20/10/2018;1.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Acre;Norte
+Barboza Yamashita;63000.0;72;LOII;187051757;20/02/2019;3.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Acre;Norte
+Geiger Cardozo;225000.0;97;LOIII;867795263;18/02/2019;1.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Umbelino Bueno;81000.0;17;ADIII;207980171;15/02/2019;2.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
+Lustosa Capistrano;346500.0;97;LOIII;205252236;29/11/2018;3.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Alagoas;Nordeste
+Junior Gonçalves;400500.0;42;COII;807017045;05/01/2019;3.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Sergipe;Nordeste
+Paula Yamashita;297000.0;51;OPV;543365910;25/10/2018;4.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Santa Catarina;Sul
+Pontes Kuroiwa;166500.0;28;COII;760790985;17/02/2019;3.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Roraima;Norte
+Arruda Vieira;180000.0;64;ADIV;83493358;17/01/2019;3.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Acre;Norte
+Costa Santos;387000.0;100;OPIV;359640008;10/04/2019;2.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Rio de Janeiro;Sudeste
+Firmino Soares;256500.0;35;COIV;482417940;09/02/2019;4.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Rio de Janeiro;Sudeste
+Barboza Peres;117000.0;74;FIIV;876615094;26/10/2018;3.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Sergipe;Nordeste
+Alves Cintra;211500.0;88;FIIII;844900357;13/02/2019;4.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Roraima;Norte
+Oliveira Vilela;301500.0;23;FIIII;354478680;03/02/2019;2.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Roraima;Norte
+Souza Castor;117000.0;90;COII;452975767;09/11/2018;1.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
+Cavazzana Grippe;144000.0;44;LOV;182154145;20/01/2019;1.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+Comparato Lima;445500.0;35;ADIV;204767661;03/03/2019;1.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Rio de Janeiro;Sudeste
+Fernandes Goncalves;112500.0;70;FIII;113230264;04/04/2019;3.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Roraima;Norte
+Belluci Rocha;238500.0;82;OPIII;479157066;01/03/2019;4.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Amazonas;Norte
+Fernandes Rossini;184500.0;78;ADII;892985537;28/01/2019;1.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Roraima;Norte
+Silveira Yamashita;382500.0;75;FIII;116288415;08/01/2019;2.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Pará;Norte
+Vilhena Rossini;94500.0;56;OPII;842193216;17/02/2019;3.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Pará;Norte
+Sanchez Favoretto;310500.0;33;OPIII;156384781;07/01/2019;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Minas Gerais;Sudeste
+De Andrade;234000.0;65;OPII;48233958;08/12/2018;1.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Silva Capistrano;85500.0;59;OPV;928040744;24/12/2018;2.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Santa Catarina;Sul
+Vilhena Lamoglia;58500.0;27;LOIV;833440173;05/01/2019;1.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Bahia;Nordeste
+De Macedo;198000.0;56;COV;99529164;19/01/2019;4.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Amazonas;Norte
+Mauricio Ferreira;405000.0;36;COIV;192349176;30/03/2019;4.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Alagoas;Nordeste
+Prado Amaral;261000.0;51;COII;204484402;26/12/2018;2.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Santa Catarina;Sul
+Lobato Celestino;450000.0;35;FIIII;250413034;25/11/2018;1.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Bahia;Nordeste
+Leite Rimes;400500.0;70;OPII;790847351;10/11/2018;4.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Mato Grosso;Centro - Oeste
+Grilanda Martins;405000.0;76;COII;727189010;02/11/2018;3.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Luiz Gonçalves;427500.0;82;OPIII;132145545;22/03/2019;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Alagoas;Nordeste
+Ulisses Santos;72000.0;42;ADIV;207196250;22/03/2019;4.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Bahia;Nordeste
+Bergamaschi Nawa;108000.0;61;OPV;901342273;29/03/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Alagoas;Nordeste
+César Pires;369000.0;86;LOV;120548577;19/10/2018;4.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Amapá;Norte
+Sasseron Bonazza;108000.0;42;OPIV;400807136;31/10/2018;1.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Mato Grosso;Centro - Oeste
+Ferreira Pereira;202500.0;14;ADV;657404801;12/01/2019;2.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Pernambuco;Nordeste
+Lourenço Guimarães;103500.0;93;COIII;377249117;17/03/2019;2.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Rio Grande do Sul;Sul
+Akemi Goncalves;378000.0;84;OPV;106483861;14/12/2018;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Pará;Norte
+Ricardo Onishi;400500.0;27;COIII;483660390;03/02/2019;1.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Santa Catarina;Sul
+Paulo Vanin;405000.0;77;COII;358556913;30/12/2018;1.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;São Paulo;Sudeste
+Krohling Onishi;90000.0;16;ADIV;967268262;10/12/2018;1.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Alagoas;Nordeste
+Nunes Sousa;90000.0;11;OPV;434476940;04/03/2019;2.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Goiás;Centro - Oeste
+Temponi Soares;193500.0;49;OPII;337257120;08/12/2018;2.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Santa Catarina;Sul
+Beiral Silveira;238500.0;99;ADIII;778982863;30/10/2018;4.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Alagoas;Nordeste
+Batista Pires;112500.0;13;LOV;218322861;26/12/2018;2.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Roraima;Norte
+Pimentel Isau;63000.0;60;LOIV;999531881;01/02/2019;2.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+Oliveira Mariano;279000.0;52;ADIII;48766966;07/12/2018;4.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Julia Telles;189000.0;47;ADV;637898602;21/01/2019;3.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+César Arruda;301500.0;61;OPIV;196646898;02/01/2019;4.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Sergipe;Nordeste
+Guimarães Magalhães;121500.0;100;COII;791019473;23/02/2019;3.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Corrêa Vazquez;324000.0;24;FIIII;664847234;04/12/2018;3.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Amazonas;Norte
+Roncalle Wancelotti;418500.0;64;COII;701868570;16/11/2018;2.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Roraima;Norte
+Aquer Gomide;234000.0;16;OPII;68761730;28/02/2019;4.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;São Paulo;Sudeste
+Dos Gonçalves;270000.0;78;ADV;990907967;13/12/2018;4.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;São Paulo;Sudeste
+Sasseron Minatel;373500.0;85;LOV;728759771;15/12/2018;2.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Alagoas;Nordeste
+Thainá Rodrigues;405000.0;76;ADV;203985702;20/01/2019;4.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+Luis Grippe;76500.0;10;ADIII;400113724;02/12/2018;3.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Roraima;Norte
+Pereira Costa;108000.0;61;ADIII;155990402;29/03/2019;2.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Amapá;Norte
+Luiza Silva;355500.0;42;ADIV;996945992;09/04/2019;2.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Rio Grande do Norte;Nordeste
+Daniel Zolini;378000.0;62;COIV;226761808;13/12/2018;2.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;São Paulo;Sudeste
+Leal Zimerer;54000.0;85;ADV;130049459;06/02/2019;3.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;São Paulo;Sudeste
+Rodrigues Rasteira;72000.0;47;OPII;466994435;22/02/2019;1.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+Pereira Klain;184500.0;43;OPIII;101711232;05/04/2019;4.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Bahia;Nordeste
+Geiger Cassettari;261000.0;56;LOIII;673943826;11/04/2019;1.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
+Antunes Moreira;441000.0;46;COIV;89488477;18/10/2018;1.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Rio de Janeiro;Sudeste
+Augusto Favoretto;180000.0;87;FIII;609489476;28/12/2018;2.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Amazonas;Norte
+Gonçalves Santos;171000.0;54;FIIV;201225808;04/01/2019;4.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Goiás;Centro - Oeste
+De Santana;229500.0;99;OPV;140919465;16/01/2019;2.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Bahia;Nordeste
+Roberto Alves;279000.0;27;FIII;855551883;10/11/2018;3.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Bahia;Nordeste
+Bitencourt Mayer;315000.0;13;COIV;808483974;25/12/2018;4.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Amapá;Norte
+Yi Silveira;99000.0;52;COII;837684292;04/04/2019;1.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Acre;Norte
+Pedrete Junqueira;364500.0;52;OPV;144880273;08/02/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Acre;Norte
+Jubelini Baldini;63000.0;82;LOV;226382152;31/01/2019;1.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Roraima;Norte
+Pereira Barbosa;171000.0;70;OPIII;321939408;24/11/2018;2.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Amazonas;Norte
+Junio Azuma;432000.0;60;LOV;951939730;31/12/2018;3.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Acre;Norte
+Vitorino Turri;445500.0;24;ADV;613466446;23/02/2019;1.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Rio de Janeiro;Sudeste
+Clara Bueno;207000.0;87;ADIII;428451247;20/12/2018;2.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Santa Catarina;Sul
+Lucas Dantas;81000.0;33;ADV;818327181;28/11/2018;4.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Amazonas;Norte
+Regina Sousa;364500.0;73;OPIII;541595529;27/03/2019;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Acre;Norte
+Maria Vieira;148500.0;74;FIV;730997332;30/10/2018;3.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Goiás;Centro - Oeste
+Athanasio Ivanaga;189000.0;25;ADII;608196606;27/12/2018;2.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Minas Gerais;Sudeste
+Vinicius Monteiro;270000.0;84;FIIV;486614046;15/12/2018;2.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;São Paulo;Sudeste
+De Perciavalle;229500.0;58;OPV;108525113;30/10/2018;2.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Rio Grande do Sul;Sul
+Táboas Sousa;373500.0;93;COIII;938218685;24/02/2019;1.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;São Paulo;Sudeste
+Barone Paschoarelli;423000.0;98;COIV;724762945;13/01/2019;3.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Pernambuco;Nordeste
+Macêdo Gaiotto;171000.0;34;FIII;791776014;07/01/2019;4.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Amapá;Norte
+Carlos Perciavalle;225000.0;39;OPV;344094138;11/04/2019;1.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Sergipe;Nordeste
+De Martins;139500.0;57;LOV;617494643;12/04/2019;2.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Rio Grande do Norte;Nordeste
+Castello Neves;58500.0;86;ADIII;120092906;19/01/2019;3.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Alves Falkenbach;58500.0;93;LOIII;145972418;21/12/2018;4.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Rio Grande do Sul;Sul
+Lopes Gonçalves;288000.0;54;FIII;33300826;16/03/2019;1.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Amazonas;Norte
+Souza Martins;103500.0;66;FIV;83107931;18/10/2018;3.0;Diretor;Financeiro;CBB;   JE;Efetivo;S;Diretoria;Alagoas;Nordeste
+Pereira Santos;355500.0;24;ADIV;185976952;06/02/2019;2.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Sergipe;Nordeste
+Corrêa Moreira;387000.0;69;ADV;767888566;31/01/2019;1.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Amazonas;Norte
+Ávila Gaiotto;441000.0;82;COV;369419850;25/12/2018;3.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Rio Grande do Sul;Sul
+De Freitas;99000.0;61;OPIII;22133605;29/11/2018;1.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+De Favoretto;216000.0;83;FIIII;425509783;07/01/2019;1.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Amapá;Norte
+Eduardo Silva;396000.0;20;FIIII;988459852;25/10/2018;1.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Rio Grande do Sul;Sul
+De Amaro;256500.0;78;LOII;643033662;07/02/2019;3.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Alagoas;Nordeste
+Alves Bretas;279000.0;74;LOII;631676969;16/11/2018;1.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Pará;Norte
+Da Rodrigues;76500.0;58;LOIV;995982900;19/12/2018;4.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Pernambuco;Nordeste
+Pacheco Peres;103500.0;54;OPII;755495601;24/02/2019;2.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Amazonas;Norte
+Lopes Braga;274500.0;97;COV;570928792;31/12/2018;3.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Acre;Norte
+Naiara Borges;189000.0;90;OPIV;103934507;25/10/2018;3.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Rio Grande do Sul;Sul
+De Vieira;355500.0;77;COV;319607113;06/12/2018;2.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Amazonas;Norte
+De Guimarães;414000.0;46;FIIII;540381594;03/04/2019;3.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Sergipe;Nordeste
+Cristina Tavares;108000.0;49;ADV;547597323;21/02/2019;2.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Pará;Norte
+Fernandes Neto;364500.0;98;ADIII;976816088;14/01/2019;3.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Alagoas;Nordeste
+Beatriz Martins;243000.0;17;FIII;939872042;29/12/2018;4.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Acre;Norte
+Guilmar Oliva;436500.0;91;LOV;220721292;28/02/2019;4.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+Kellen Tavares;310500.0;41;COIII;537322942;22/02/2019;2.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;São Paulo;Sudeste
+Emídio Simões;193500.0;21;OPV;467772412;10/03/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Amazonas;Norte
+Minhoto Araújo;117000.0;50;OPV;584663204;29/12/2018;4.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Acre;Norte
+Augusto Martins;436500.0;23;FIIII;460319237;23/11/2018;4.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Santos Minatel;63000.0;11;OPV;117484354;04/03/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Santa Catarina;Sul
+Gomes Wancelotti;130500.0;92;LOII;701051864;24/11/2018;2.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;São Paulo;Sudeste
+Alves Costa;108000.0;11;OPII;463316634;25/03/2019;2.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Azeredo Mayer;355500.0;58;FIII;52585859;01/04/2019;3.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Pará;Norte
+Thiemy Alves;387000.0;83;ADIV;726874617;17/01/2019;1.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Alagoas;Nordeste
+Silva Marinho;108000.0;13;LOIV;468764609;14/12/2018;2.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Rio Grande do Norte;Nordeste
+Guimarães Isau;207000.0;41;COII;127833188;10/01/2019;4.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Pará;Norte
+Alexandre Accorsi;247500.0;51;ADII;382781661;05/01/2019;3.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Amazonas;Norte
+Feliciano Falkenbach;90000.0;71;ADIII;323996162;31/01/2019;2.0;Coordenador;Administrativo;BAC;DB;Terceiro;N;RH;Amapá;Norte
+De Rasteira;315000.0;59;FIIV;607889946;13/04/2019;4.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Pernambuco;Nordeste
+Filgueiras Rossini;216000.0;45;COIII;813898025;14/01/2019;4.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Keiji Cunha;400500.0;72;OPIV;899553458;23/02/2019;3.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Bahia;Nordeste
+Gambirazio Onishi;396000.0;80;COII;772745493;13/03/2019;4.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Mato Grosso;Centro - Oeste
+Lauria Nawa;207000.0;76;FIIV;583918271;14/11/2018;4.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+Terra Aurélio;445500.0;78;LOIII;359479432;27/01/2019;3.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Campos Sousa;85500.0;79;ADII;238606873;25/01/2019;1.0;Analista;Administrativo;BAC;DB;Terceiro;N;RH;Sergipe;Nordeste
+Augusto Bonazza;54000.0;12;ADV;876392862;04/03/2019;4.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Bahia;Nordeste
+Fernanda Gonçalves;72000.0;73;COV;455815209;14/04/2019;3.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Amapá;Norte
+Carvalho Noronha;292500.0;26;ADV;985532107;18/10/2018;4.0;Diretor;Administrativo;BAC;JE;Efetivo;S;Diretoria;Rio de Janeiro;Sudeste
+Antunes Wassem;351000.0;47;COIV;485601828;14/03/2019;4.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;São Paulo;Sudeste
+Arruda Sousa;58500.0;12;COIV;623449970;07/02/2019;1.0;Gerente;Comercial;JAA;ID;Efetivo;S;Diretoria;Minas Gerais;Sudeste
+Da Lima;315000.0;39;FIIII;723769410;28/12/2018;4.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;São Paulo;Sudeste
+De Ribeiro;355500.0;94;COII;262674394;04/02/2019;4.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Amazonas;Norte
+Emídio Guimarães;94500.0;91;LOIII;925578203;24/03/2019;4.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;São Paulo;Sudeste
+Félix Vieira;441000.0;79;OPV;623500314;14/11/2018;2.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Goiás;Centro - Oeste
+Barreto Martins;220500.0;39;FIIII;628253093;01/04/2019;4.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Roraima;Norte
+Augusto Coral;126000.0;83;LOIV;926942997;12/02/2019;1.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Roraima;Norte
+Amorim Ribeiro;405000.0;51;LOV;970430766;22/10/2018;1.0;Diretor;Logísitca;EDE;JE;Efetivo;S;Diretoria;Amazonas;Norte
+Fernandes Cotta;373500.0;30;LOII;409776571;14/04/2019;2.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+Lorena Costa;265500.0;43;OPIII;420911371;18/03/2019;2.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+Malacarne Barbosa;58500.0;93;FIIV;994836655;29/12/2018;2.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Amapá;Norte
+Pereira Noronha;405000.0;32;COII;851559275;15/02/2019;1.0;Analista;Comercial;JAA;DB;Terceiro;N;RH;Rio Grande do Norte;Nordeste
+Ricardo Ling;396000.0;41;FIIII;197776191;31/01/2019;4.0;Coordenador;Financeiro;CBB;DB;Terceiro;N;RH;Rio Grande do Sul;Sul
+Da Oliveira;81000.0;10;COV;480259837;09/02/2019;4.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Amazonas;Norte
+Celeste Silva;189000.0;18;OPII;977994364;27/12/2018;1.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;São Paulo;Sudeste
+Colaço Lellis;112500.0;78;OPII;483526742;13/04/2019;4.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Pernambuco;Nordeste
+Félix Vazquez;283500.0;11;OPIV;555298329;02/03/2019;1.0;Gerente;Operações;JAJ;ID;Efetivo;S;RH;Acre;Norte
+Manoel Rimes;193500.0;33;ADIV;41225246;27/12/2018;4.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Pernambuco;Nordeste
+Arlindo Amorim;373500.0;74;COV;571578956;23/03/2019;3.0;Diretor;Comercial;JAA;JE;Efetivo;S;Diretoria;Santa Catarina;Sul
+Kenji Espinha;373500.0;71;OPII;763650870;24/11/2018;2.0;Analista;Operações;JAJ;DB;Terceiro;N;RH;Alagoas;Nordeste
+Fadel Capistrano;306000.0;54;FIII;651381120;30/01/2019;4.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Santa Catarina;Sul
+Luiza Therezo;387000.0;33;COIII;204634306;11/12/2018;2.0;Coordenador;Comercial;JAA;DB;Terceiro;N;RH;Goiás;Centro - Oeste
+Iauch Hack;373500.0;63;LOIII;785964011;27/01/2019;2.0;Coordenador;Logísitca;   EDE;DB;Terceiro;N;RH;Santa Catarina;Sul
+Manoel Costa;369000.0;53;LOIV;801388803;26/11/2018;4.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Bahia;Nordeste
+Gomes Machado;238500.0;45;OPV;131504555;04/12/2018;2.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Acre;Norte
+Alkindar Cardozo;351000.0;16;FIII;560973100;07/12/2018;1.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Roraima;Norte
+Pereira Fazenda;418500.0;28;FIII;233130568;02/02/2019;1.0;Analista;Financeiro;CBB;DB;Terceiro;N;RH;Alagoas;Nordeste
+Americo Damasceno;243000.0;43;LOIV;283627858;29/11/2018;3.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Mato Grosso;Centro - Oeste
+Maria Dantas;135000.0;61;OPV;615313104;05/04/2019;1.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Santa Catarina;Sul
+Gonçalves Alves;207000.0;26;FIIV;148112796;15/01/2019;4.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Bahia;Nordeste
+Vitor Junqueira;103500.0;28;FIIV;192179668;15/11/2018;2.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Pará;Norte
+Rodrigues Bretas;382500.0;55;ADIV;314089324;05/04/2019;2.0;Gerente;Administrativo;BAC;ID;Efetivo;S;RH;Sergipe;Nordeste
+Americo Bomfim;157500.0;59;LOIV;494498526;14/03/2019;3.0;Gerente;Logísitca;EDE;ID;Efetivo;S;Diretoria;Roraima;Norte
+Santos Costa;252000.0;64;FIIV;430169311;10/03/2019;2.0;Gerente;Financeiro;CBB;ID;Efetivo;S;Diretoria;Rio Grande do Norte;Nordeste
+Do Monteiro;351000.0;19;OPV;839424894;31/01/2019;3.0;Diretor;Operações;   JAJ;JE;Efetivo;S;Diretoria;Amazonas;Norte
+Soares Lobo;234000.0;47;OPIII;349268744;16/03/2019;3.0;Coordenador;Operações;JAJ;DB;Terceiro;N;RH;Amazonas;Norte
+Nunes Cintra;72000.0;79;LOII;155016697;09/02/2019;3.0;Analista;Logísitca;EDE;DB;Terceiro;N;RH;Rio de Janeiro;Sudeste
